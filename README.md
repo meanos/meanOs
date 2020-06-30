@@ -1,3 +1,8 @@
-# meanOs
+https://meanOs.obeyi.com
 
-meanOs - The Mean.js, P2P, Ditrobuted, Cloud OS by OBEYi.com
+=============
+
+meanOs: (MEAN OPERATING SYSTEM)
+
+The first anonymous and decentralized online operating system 
+- created by OBEYi.com using the MEAN.js Stack
