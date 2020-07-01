@@ -10,11 +10,11 @@ meanOs is the only operating system hosted anonymous using a P2P network using a
 
 ## GUI Options:
 
-Google Fuchsia, Fuchsia is an open-source capability-based operating system currently being developed by Google. It first became known to the public when the project appeared on a self hosted form of git in August 2016 without any official announcement.
+- [x] Google Fuchsia, Fuchsia is an open-source capability-based operating system currently being developed by Google. It first became known to the public when the project appeared on a self hosted form of git in August 2016 without any official announcement.
 
-Kali Linux, Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security.
+- [x] Kali Linux, Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security.
 
-macOS, macOS is a series of proprietary graphical operating systems developed and marketed by Apple Inc. since 2001. It is the primary operating system for Apple's Mac computers. Within the market of desktop, laptop and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows.
+- [x] macOS, macOS is a series of proprietary graphical operating systems developed and marketed by Apple Inc. since 2001. It is the primary operating system for Apple's Mac computers. Within the market of desktop, laptop and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows.
 
 
 ## Architecture
@@ -25,11 +25,11 @@ After the ServiceWorker is downloaded and activated, it handles all `fetch()` ev
 
 ## Related developments
 
- - https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
- - https://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/
- - https://censorship.no/
- - https://netblocks.org/
- - https://samizdat.is/
+- [x] https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
+- [x] https://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/
+- [x] https://censorship.no/
+- [x] https://netblocks.org/
+- [x] https://samizdat.is/
 
 ## Special thanks and acknowledgements
 
