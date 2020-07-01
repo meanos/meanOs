@@ -6,7 +6,7 @@ https://meanOs.obeyi.com
 
 The first decentralized operating system, developed by don Pablo @ OBEYi.com using the MEAN.js Stack.
 
-meanOs is the only operating system hosted anonymous using a P2P network using a suite of non-standard in-browser delivery mechanisms, with string focus on decentralized tools like - [Gun](https://gun.eco) and - [IPFS](https://ipfs.io/).
+meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms, with string focus on decentralized tools like - [Gun](https://gun.eco) and - [IPFS](https://ipfs.io/).
 
 ## GUI Options:
 
