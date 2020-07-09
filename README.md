@@ -6,8 +6,6 @@ The smallest and the most powerful operating system.
 
 meanOs is specifically designed to work with Brave but is compatible with all other major browsers. meanOs is Proud to be a BRAVE supporter! 
 
- #brave #react #nodejs #torrent #chrome #cloud #pwa #osx #serviceworker #webrtc #ipfs #blockchain #os #p2p #gun #webos #kali #annonymous #fuschia #vercel
-
  ------------------------------------------------------------------------------------------------
 
  ## Browser Support
