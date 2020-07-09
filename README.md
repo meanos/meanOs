@@ -1,6 +1,8 @@
-meanOs
+<h1>meanOs</h1>
 (MEAN OPERATING SYSTEM)
-<img width="50%" src="screenshots/ob.mean.logo.svg" />
+
+<p><img width="50%" src="screenshots/ob.mean.logo.svg" /></p>
+
 The smallest and the most powerful operating system.
 
 meanOs is specifically designed to work with Brave but is compatible with all other major browsers. meanOs is Proud to be a BRAVE supporter! 
