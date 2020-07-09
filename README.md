@@ -5,8 +5,6 @@
 <p align="center">
   The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms such as - [Gun](https://gun.eco) and - [IPFS] (https://ipfs.io/)
 </p>
-<iframe width="644" height="398" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1YgBWYm9nTGlCuyqSwU3SDb7xk-SMSPgjfYq5iLqL0nQ/pubchart?oid=200651442&amp;format=interactive">
-</iframe>
 <img src="README.svg" width="130px" height="170px"/>
 <h2>Table of contents</h2>
 <ul>
