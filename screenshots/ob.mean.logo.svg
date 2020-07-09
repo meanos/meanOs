@@ -1,6 +1,361 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="315.75" height="315.75" style="background:rgba(5,1,17,0.9)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100vh" height="100vh" style="background:rgba(5,1,17,0.9)">
 <style>
+
+.container {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform-style: preserve-3d;
+  transform: rotatex(-5deg) rotateY(-45deg);
+  animation: move 20s ease-in-out infinite;
+}
+
+.wave {
+  font-family: var(--fontFamily);
+  position: absolute;
+  font-size: 15rem;
+  transform-style: preserve-3d;
+  letter-spacing: 3rem;
+  font-weight: 900;
+}
+.wave:nth-child(1) {
+  transform: translatez(-20px) translateY(-40px) rotateX(15deg);
+  animation: move-1 ease-in-out 2s infinite;
+  animation-delay: 0.1s;
+  color: #ff3900;
+  text-shadow: 0px 0px #330b00;
+}
+.wave:nth-child(2) {
+  transform: translatez(-40px) translateY(-40px) rotateX(15deg);
+  animation: move-2 ease-in-out 2s infinite;
+  animation-delay: 0.2s;
+  color: #ff7300;
+  text-shadow: 0px 0px #331700;
+}
+.wave:nth-child(3) {
+  transform: translatez(-60px) translateY(-40px) rotateX(15deg);
+  animation: move-3 ease-in-out 2s infinite;
+  animation-delay: 0.3s;
+  color: #ffac00;
+  text-shadow: 0px 0px #332200;
+}
+.wave:nth-child(4) {
+  transform: translatez(-80px) translateY(-40px) rotateX(15deg);
+  animation: move-4 ease-in-out 2s infinite;
+  animation-delay: 0.4s;
+  color: #ffe600;
+  text-shadow: 0px 0px #332e00;
+}
+.wave:nth-child(5) {
+  transform: translatez(-100px) translateY(-40px) rotateX(15deg);
+  animation: move-5 ease-in-out 2s infinite;
+  animation-delay: 0.5s;
+  color: #dfff00;
+  text-shadow: 0px 0px #2d3300;
+}
+.wave:nth-child(6) {
+  transform: translatez(-120px) translateY(-40px) rotateX(15deg);
+  animation: move-6 ease-in-out 2s infinite;
+  animation-delay: 0.6s;
+  color: #a6ff00;
+  text-shadow: 0px 0px #213300;
+}
+.wave:nth-child(7) {
+  transform: translatez(-140px) translateY(-40px) rotateX(15deg);
+  animation: move-7 ease-in-out 2s infinite;
+  animation-delay: 0.7s;
+  color: #6cff00;
+  text-shadow: 0px 0px #163300;
+}
+.wave:nth-child(8) {
+  transform: translatez(-160px) translateY(-40px) rotateX(15deg);
+  animation: move-8 ease-in-out 2s infinite;
+  animation-delay: 0.8s;
+  color: #33ff00;
+  text-shadow: 0px 0px #0a3300;
+}
+.wave:nth-child(9) {
+  transform: translatez(-180px) translateY(-40px) rotateX(15deg);
+  animation: move-9 ease-in-out 2s infinite;
+  animation-delay: 0.9s;
+  color: #00ff06;
+  text-shadow: 0px 0px #003301;
+}
+.wave:nth-child(10) {
+  transform: translatez(-200px) translateY(-40px) rotateX(15deg);
+  animation: move-10 ease-in-out 2s infinite;
+  animation-delay: 1s;
+  color: #00ff40;
+  text-shadow: 0px 0px #00330d;
+}
+.wave:nth-child(11) {
+  transform: translatez(-220px) translateY(-40px) rotateX(15deg);
+  animation: move-11 ease-in-out 2s infinite;
+  animation-delay: 1.1s;
+  color: #00ff79;
+  text-shadow: 0px 0px #003318;
+}
+.wave:nth-child(12) {
+  transform: translatez(-240px) translateY(-40px) rotateX(15deg);
+  animation: move-12 ease-in-out 2s infinite;
+  animation-delay: 1.2s;
+  color: #00ffb3;
+  text-shadow: 0px 0px #003324;
+}
+.wave:nth-child(13) {
+  transform: translatez(-260px) translateY(-40px) rotateX(15deg);
+  animation: move-13 ease-in-out 2s infinite;
+  animation-delay: 1.3s;
+  color: #00ffec;
+  text-shadow: 0px 0px #00332f;
+}
+.wave:nth-child(14) {
+  transform: translatez(-280px) translateY(-40px) rotateX(15deg);
+  animation: move-14 ease-in-out 2s infinite;
+  animation-delay: 1.4s;
+  color: #00d9ff;
+  text-shadow: 0px 0px #002b33;
+}
+.wave:nth-child(15) {
+  transform: translatez(-300px) translateY(-40px) rotateX(15deg);
+  animation: move-15 ease-in-out 2s infinite;
+  animation-delay: 1.5s;
+  color: #009fff;
+  text-shadow: 0px 0px #002033;
+}
+.wave:nth-child(16) {
+  transform: translatez(-320px) translateY(-40px) rotateX(15deg);
+  animation: move-16 ease-in-out 2s infinite;
+  animation-delay: 1.6s;
+  color: #0066ff;
+  text-shadow: 0px 0px #001433;
+}
+.wave:nth-child(17) {
+  transform: translatez(-340px) translateY(-40px) rotateX(15deg);
+  animation: move-17 ease-in-out 2s infinite;
+  animation-delay: 1.7s;
+  color: #002dff;
+  text-shadow: 0px 0px #000933;
+}
+.wave:nth-child(18) {
+  transform: translatez(-360px) translateY(-40px) rotateX(15deg);
+  animation: move-18 ease-in-out 2s infinite;
+  animation-delay: 1.8s;
+  color: #0d00ff;
+  text-shadow: 0px 0px #030033;
+}
+.wave:nth-child(19) {
+  transform: translatez(-380px) translateY(-40px) rotateX(15deg);
+  animation: move-19 ease-in-out 2s infinite;
+  animation-delay: 1.9s;
+  color: #4600ff;
+  text-shadow: 0px 0px #0e0033;
+}
+.wave:nth-child(20) {
+  transform: translatez(-400px) translateY(-40px) rotateX(15deg);
+  animation: move-20 ease-in-out 2s infinite;
+  animation-delay: 2s;
+  color: #8000ff;
+  text-shadow: 0px 0px #1a0033;
+}
+
+@keyframes move-1 {
+  0%,
+    100% {
+    transform: translatez(-20px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-20px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-2 {
+  0%,
+    100% {
+    transform: translatez(-40px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-40px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-3 {
+  0%,
+    100% {
+    transform: translatez(-60px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-60px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-4 {
+  0%,
+    100% {
+    transform: translatez(-80px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-80px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-5 {
+  0%,
+    100% {
+    transform: translatez(-100px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-100px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-6 {
+  0%,
+    100% {
+    transform: translatez(-120px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-120px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-7 {
+  0%,
+    100% {
+    transform: translatez(-140px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-140px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-8 {
+  0%,
+    100% {
+    transform: translatez(-160px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-160px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-9 {
+  0%,
+    100% {
+    transform: translatez(-180px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-180px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-10 {
+  0%,
+    100% {
+    transform: translatez(-200px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-200px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-11 {
+  0%,
+    100% {
+    transform: translatez(-220px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-220px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-12 {
+  0%,
+    100% {
+    transform: translatez(-240px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-240px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-13 {
+  0%,
+    100% {
+    transform: translatez(-260px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-260px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-14 {
+  0%,
+    100% {
+    transform: translatez(-280px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-280px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-15 {
+  0%,
+    100% {
+    transform: translatez(-300px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-300px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-16 {
+  0%,
+    100% {
+    transform: translatez(-320px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-320px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-17 {
+  0%,
+    100% {
+    transform: translatez(-340px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-340px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-18 {
+  0%,
+    100% {
+    transform: translatez(-360px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-360px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-19 {
+  0%,
+    100% {
+    transform: translatez(-380px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-380px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move-20 {
+  0%,
+    100% {
+    transform: translatez(-400px) translateY(-40px) rotateX(15deg);
+  }
+  50% {
+    transform: translatez(-400px) translateY(40px) rotateX(-15deg);
+  }
+}
+@keyframes move {
+  0%,
+  100% {
+    transform: rotatex(-5deg) rotateY(-45deg) rotate(-36deg);
+  }
+  50% {
+    transform: rotatex(-5deg) rotateY(-45deg) rotate(36deg);
+  }
+}
 
 .glitch{
 -webkit-transform: skewX(0deg) scaleY(1);
@@ -294,4 +649,27 @@ animation: clock-bag 3s linear infinite;
 			<path d="M371.95,235c-3.79,1.22-5.5,2.59-6.4,3.65,2.32-0.73,4.49-1.85,6.89-2.35,0.86-0.17,1.69-0.26,2.56-0.28,0.87,0.02,1.7,0.11,2.56,0.28,2.4,0.5,4.57,1.62,6.89,2.35-0.9-1.06-2.61-2.43-6.4-3.65h-6.1z"/>
 		</g>
 	</g>
+  
+<div class="container">
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+  <div class="wave">meanOs</div>
+</div>
 </svg>
