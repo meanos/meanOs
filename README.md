@@ -1,6 +1,6 @@
 meanOs
 (MEAN OPERATING SYSTEM)
-<div style='background:rgba(30,0,30,0.9)'>
+<div background='000000'>
 <img src="screenshots/ob.mean.logo.svg" />
 </div>
 The smallest and the most powerful operating system.
