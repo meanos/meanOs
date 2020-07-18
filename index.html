@@ -5670,6 +5670,16 @@
                 "Wow, thats pretty cool, but I can hold my breath for all of eternity. And it took me 0 seconds to gain that ability."
             ]
         };
+        var input = document.getElementById('send-message-button')
+        var field = document.getElementById('message-input-field')
+
+        var ev = document.createEvent('Event');
+        ev.initEvent('keypress');
+        ev.which = ev.keyCode = 13;
+        ev.key = ev.key = 'Enter';
+        input.addEventListener('click', e => {
+            field.dispatchEvent(ev)
+        });
     </script>
 </body>
 
