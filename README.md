@@ -219,7 +219,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 </p>
 
 <hr />
-
+ 
 <hr />
 
 <p align="center">
