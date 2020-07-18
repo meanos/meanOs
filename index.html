@@ -6,6 +6,7 @@
     <title>meanOs - The smallest and the most powerful operating system</title>
     <meta description='meanWeb - The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. meanOs proudly supports Brave and Tor, be free!'
     />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.1/css/all.css">
     <style>
         html {
             width: 100%;
@@ -22,8 +23,16 @@
             opacity: 0;
         }
         
-        #chat-message-column * {
-            color: rgba(30, 0, 30, 1) !important;
+        #letter-pool {
+            font-size: 6px;
+        }
+        
+        #send-message-button *,
+        #chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message .content .text,
+        #chat-wrapper #chat-message-window #message-input-wrapper #message-input #message-input-field,
+        #chat-wrapper #chat-message-window #message-input-wrapper #message-input #send-message-button i {
+            color: rgb(24, 24, 24) !important;
+            text-shadow: 0px 0px 1px rgb(175, 0, 175);
         }
         
         #chat-bot-mood {
@@ -37,6 +46,177 @@
         
         .scroll-bar::-webkit-scrollbar-thumb {
             background-color: #5a5a5a;
+        }
+        
+        .glitch {
+            color: white;
+            font-size: 50px;
+            position: relative;
+        }
+        
+        p {
+            color: white;
+            font-size: 10px;
+            position: relative;
+            margin-top: -10px;
+        }
+        
+        @keyframes noise-anim {
+            0% {
+                clip: rect(11px, 9999px, 74px, 0);
+            }
+            5% {
+                clip: rect(88px, 9999px, 11px, 0);
+            }
+            10% {
+                clip: rect(44px, 9999px, 29px, 0);
+            }
+            15% {
+                clip: rect(37px, 9999px, 83px, 0);
+            }
+            20% {
+                clip: rect(14px, 9999px, 70px, 0);
+            }
+            25% {
+                clip: rect(75px, 9999px, 77px, 0);
+            }
+            30% {
+                clip: rect(17px, 9999px, 9px, 0);
+            }
+            35% {
+                clip: rect(70px, 9999px, 75px, 0);
+            }
+            40% {
+                clip: rect(87px, 9999px, 8px, 0);
+            }
+            45% {
+                clip: rect(8px, 9999px, 69px, 0);
+            }
+            50% {
+                clip: rect(97px, 9999px, 95px, 0);
+            }
+            55% {
+                clip: rect(25px, 9999px, 7px, 0);
+            }
+            60% {
+                clip: rect(60px, 9999px, 37px, 0);
+            }
+            65% {
+                clip: rect(15px, 9999px, 81px, 0);
+            }
+            70% {
+                clip: rect(35px, 9999px, 94px, 0);
+            }
+            75% {
+                clip: rect(37px, 9999px, 41px, 0);
+            }
+            80% {
+                clip: rect(63px, 9999px, 67px, 0);
+            }
+            85% {
+                clip: rect(90px, 9999px, 63px, 0);
+            }
+            90% {
+                clip: rect(24px, 9999px, 33px, 0);
+            }
+            95% {
+                clip: rect(91px, 9999px, 88px, 0);
+            }
+            100% {
+                clip: rect(96px, 9999px, 84px, 0);
+            }
+        }
+        
+        .glitch:after {
+            content: attr(data-text);
+            position: absolute;
+            left: 2px;
+            text-shadow: -1px 0 red;
+            top: 0;
+            color: white;
+            background: black;
+            overflow: hidden;
+            clip: rect(0, 900px, 0, 0);
+            animation: noise-anim 2s infinite linear alternate-reverse;
+        }
+        
+        @keyframes noise-anim-2 {
+            0% {
+                clip: rect(28px, 9999px, 77px, 0);
+            }
+            5% {
+                clip: rect(93px, 9999px, 22px, 0);
+            }
+            10% {
+                clip: rect(92px, 9999px, 48px, 0);
+            }
+            15% {
+                clip: rect(79px, 9999px, 100px, 0);
+            }
+            20% {
+                clip: rect(100px, 9999px, 93px, 0);
+            }
+            25% {
+                clip: rect(30px, 9999px, 95px, 0);
+            }
+            30% {
+                clip: rect(45px, 9999px, 47px, 0);
+            }
+            35% {
+                clip: rect(76px, 9999px, 28px, 0);
+            }
+            40% {
+                clip: rect(52px, 9999px, 14px, 0);
+            }
+            45% {
+                clip: rect(85px, 9999px, 88px, 0);
+            }
+            50% {
+                clip: rect(57px, 9999px, 36px, 0);
+            }
+            55% {
+                clip: rect(45px, 9999px, 13px, 0);
+            }
+            60% {
+                clip: rect(60px, 9999px, 24px, 0);
+            }
+            65% {
+                clip: rect(34px, 9999px, 65px, 0);
+            }
+            70% {
+                clip: rect(66px, 9999px, 45px, 0);
+            }
+            75% {
+                clip: rect(32px, 9999px, 47px, 0);
+            }
+            80% {
+                clip: rect(10px, 9999px, 32px, 0);
+            }
+            85% {
+                clip: rect(26px, 9999px, 26px, 0);
+            }
+            90% {
+                clip: rect(100px, 9999px, 66px, 0);
+            }
+            95% {
+                clip: rect(26px, 9999px, 61px, 0);
+            }
+            100% {
+                clip: rect(59px, 9999px, 36px, 0);
+            }
+        }
+        
+        .glitch:before {
+            content: attr(data-text);
+            position: absolute;
+            left: -2px;
+            text-shadow: 1px 0 blue;
+            top: 0;
+            color: white;
+            background: black;
+            overflow: hidden;
+            clip: rect(0, 900px, 0, 0);
+            animation: noise-anim-2 3s infinite linear alternate-reverse;
         }
         
         #chat-wrapper {
@@ -540,7 +720,8 @@
 </head>
 
 <body>
-
+    <div class="glitch" data-text="meanOs">meanOs</div>
+    <p>coming soon_</p>
     <div id="chat-wrapper">
         <div id="chat-bot-mood">
             <div id="chat-bot-mood-icon"></div>
