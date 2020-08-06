@@ -1,5 +1,7 @@
-<h1>meanWeb</h1>
+<h1>meanOs</h1>
 <p><i>The smallest and the most powerful operating system.</i></p>
+
+<a href="https://meanOs.obeyi.com"><img width="100%" src="https://cdn.obeyi.com/os/img/media/logo.png" /></a>
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jinjaccalgkegednnccohejagnlnfdag.svg)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 [![Firefox Add-ons](https://img.shields.io/amo/v/violentmonkey.svg)](https://addons.mozilla.org/firefox/addon/violentmonkey)
@@ -11,35 +13,29 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 <p>meanOs is specifically designed to support both Brave and Tor but is compatible with all other major browsers. meanOs is Proud to be a BRAVE and TOR supporter, be free!!</p>
 
-<a href="https://meanOs.obeyi.com"><img width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/banner.png" /></a>
+<a href="https://meanOs.obeyi.com"><img width="100%" src="https://cdn.obeyi.com/os/img/media/banner.png" /></a>
 
  <table width="100%">
  <tr>
- <td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/brave/brave_48x48.png" /></td><td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/tor/tor_48x48.png" /></td><td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/chrome/chrome_48x48.png" /></td><td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/firefox/firefox_48x48.png" /></td><td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/opera/opera_48x48.png" /> </td><td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/edge/edge_48x48.png" /></td><td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/vivaldi/vivaldi_48x48.png" /></td>
+ <td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/brave/brave_48x48.png" /></td><td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/tor/tor_48x48.png" /></td><td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/chrome/chrome_48x48.png" /></td><td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/firefox/firefox_48x48.png" /></td><td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/opera/opera_48x48.png" /> </td><td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/edge/edge_48x48.png" /></td><td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/vivaldi/vivaldi_48x48.png" /></td>
  </tr>
  <tr>
- <td width="14%"><p align="center">Latest ✔</p></td><td width="14%"><p align="center">Latest ✔</p></td><td width="14%"><p align="center">Latest ✔</p></td><td width="14%"><p align="center">Latest ✔</p></td><td width="14%"><p align="center">Latest ✔</p></td><td width="14%"><p align="center">Latest ✔</p></td><td width="14%"><p align="center">Latest ✔</p></td>
+ <td width="15%"><p align="center">Latest ✔</p></td><td width="15%"><p align="center">Latest ✔</p></td><td width="15%"><p align="center">Latest ✔</p></td><td width="15%"><p align="center">Latest ✔</p></td><td width="15%"><p align="center">Latest ✔</p></td><td width="15%"><p align="center">Latest ✔</p></td><td width="15%"><p align="center">Latest ✔</p></td>
  </tr>
  <tr>
- <td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/chromium/chromium_48x48.png" /></td><td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/puffin/puffin_48x48.png" /></td><td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/v8/v8_48x48.png" /></td><td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/yandex/yandex_48x48.png" /></td><td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/electron/electron_48x48.png" /></td><td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/dolphin/dolphin_48x48.png" /> </td><td width="14%"><img src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/browsers/safari/safari_48x48.png" /></td>
+ <td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/chromium/chromium_48x48.png" /></td><td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/puffin/puffin_48x48.png" /></td><td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/v8/v8_48x48.png" /></td><td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/yandex/yandex_48x48.png" /></td><td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/electron/electron_48x48.png" /></td><td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/dolphin/dolphin_48x48.png" /> </td><td width="15%"><img src="https://cdn.obeyi.com/os/img/media/browsers/safari/safari_48x48.png" /></td>
  </tr>
  <tr>
- <td width="14%"><p align="center">Latest ✔</p></td><td width="14%"><p align="center">Latest ✔</p></td><td width="14%"><p align="center">Latest ✔</p></td><td width="14%"><p align="center">Latest ✔</p></td><td width="14%"><p align="center">Latest ✔</p></td><td width="14%"><p align="center">Latest ✔</p></td><td width="14%"><p align="center">Latest ✔</p></td>
+ <td width="15%"><p align="center">Latest ✔</p></td><td width="15%"><p align="center">Latest ✔</p></td><td width="15%"><p align="center">Latest ✔</p></td><td width="15%"><p align="center">Latest ✔</p></td><td width="15%"><p align="center">Latest ✔</p></td><td width="15%"><p align="center">Latest ✔</p></td><td width="15%"><p align="center">Latest ✔</p></td>
  </tr>
  </table>
 
  <table  align="center" width="100%">
- <tr>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/7.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/8.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/9.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/12.gif" /></td>
- </tr>
- <tr>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/15.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/3.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/4.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/6.gif" /></td>
+  <tr>
+ <td width="25%"><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/9.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/10.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/11.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/12.gif" /></td>
  </tr>
  </table>
 
@@ -51,7 +47,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 <p align="right">
     <a align="right" href="https://meanOs.obeyi.com">
-        <img  align="right" width="35%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/triangle2.gif" />
+        <img  align="right" width="35%" src="https://cdn.obeyi.com/os/img/media/triangle2.gif" />
     </a>
 <p>
 
@@ -77,13 +73,13 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 <h1  align="center">▌│║▌🅼🅴🅰🅽🄾🅂 █║║</h1>
 <table  align="center" width="100%">
     <tr>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/1t.gif" /></td>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/8t.gif" /></td>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/3t.gif" /></td>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/5t.gif" /></td>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/6t.gif" /></td>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/7t.gif" /></td>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/10t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/1t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/8t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/3t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/5t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/6t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/7t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/10t.gif" /></td>
     </tr>
 </table>
 </p>
@@ -111,7 +107,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  ## Architecture
 
 <p align="right">
-    <a href="https://meanOs.obeyi.com/"><img align="right" width="30%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/fluid.gif" /></a>
+    <a href="https://meanOs.obeyi.com/"><img align="right" width="30%" src="https://cdn.obeyi.com/os/img/media/fluid.gif" /></a>
 </p>
 
 A - [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) is used as a way to persist the censorship circumvention library after the initial visit to the participating website.
@@ -131,7 +127,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
  ## Related Developments
 
 <p align="center">
-    <a align="center" href="https://meanOs.obeyi.com"><img align="center" width="60%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/banner2.gif" /></a>
+    <a align="center" href="https://meanOs.obeyi.com"><img align="center" width="60%" src="https://cdn.obeyi.com/os/img/media/banner2.gif" /></a>
 <p>
 
 - [x] https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
@@ -156,16 +152,10 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 <table  align="center" width="100%">
  <tr>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/1.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/2.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/13.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/10.gif" /></td>
- </tr>
- <tr>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/14.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/5.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/16.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/11.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/3.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/6.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/7.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/8.gif" /></td>
  </tr>
  </table>
 
@@ -199,6 +189,30 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 - [x] BrowserStack: BrowserStack is a cloud web and mobile testing platform that enables developers to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices, without requiring users to install or maintain an internal lab of virtual machines, devices or emulators.
 
+- [x] web3.js  - Ethereum JavaScript API. This is the Ethereum JavaScript API which connects to the Generic JSON-RPC spec. You need to run a local or remote Ethereum node to use this library. Please read the documentation for more.
+
+- [x] 3box.io - The easiest way for Ethereum apps to manage user data.
+
+- [x] x86 - Virtualization in JavaScript, running in your browser and NodeJS
+
+- [x] MetaMask -  The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+
+- [x] Email Generator - A great way to protect your primary mailbox from junk e-mail avoid spam and stay safe.
+
+- [x] PearDownloader - A downloader that supports multi-protocol, multi-source, and hybrid P2P-CDN
+
+- [x] Afraim - web framework for building virtual reality experiences.
+
+- [x] Flutter - Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+
+- [x] Dart - Dart is a client-optimized language for fast apps on any platform.
+
+- [x] Material Components - Build beautiful, usable products with Material Components for Android, Flutter, iOS, and the web.
+
+- [x] Heroku - Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+
+- [x] Botpress - The Leading Open-source Conversational AI Platform for Enterprise Automation
+
 <hr />
 
 <hr />
@@ -207,19 +221,19 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 <h1  align="center">▌│║▌🅼🅴🅰🅽🄾🅂 █║║</h1>
 <table  align="center" width="100%">
     <tr>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/1t.gif" /></td>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/8t.gif" /></td>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/3t.gif" /></td>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/5t.gif" /></td>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/6t.gif" /></td>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/7t.gif" /></td>
-        <td><img align="center" width="100%" src="https://raw.githubusercontent.com/obeyi/meanOs/master/media/10t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/1t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/8t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/3t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/5t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/6t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/7t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/10t.gif" /></td>
     </tr>
 </table>
 </p>
 
 <hr />
- 
+
 <hr />
 
 <p align="center">
@@ -229,3 +243,4 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
         </i>
     <smaller>
 </p>
+
