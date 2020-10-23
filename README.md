@@ -1,7 +1,7 @@
-<h1>meanOs</h1>
+<h1>Mean Operating System</h1>
 <p><i>The smallest and the most powerful operating system.</i></p>
 
-<a href="https://meanOs.obeyi.com"><img width="100%" src="https://cdn.obeyi.com/os/img/media/logo.png" /></a>
+<a href="https://mean.obeyi.com"><img width="100%" src="https://cdn.obeyi.com/os/img/media/logo.png" /></a>
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jinjaccalgkegednnccohejagnlnfdag.svg)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 [![Firefox Add-ons](https://img.shields.io/amo/v/violentmonkey.svg)](https://addons.mozilla.org/firefox/addon/violentmonkey)
@@ -9,11 +9,11 @@
 [![Gitter](https://img.shields.io/gitter/room/violentmonkey/violentmonkey.svg)](https://gitter.im/violentmonkey/violentmonkey)
 [![TravisCI](https://travis-ci.org/violentmonkey/violentmonkey.svg?branch=master)](https://travis-ci.org/violentmonkey/violentmonkey)
 
-The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms.
+The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms.
 
-<p>meanOs is specifically designed to support both Brave and Tor but is compatible with all other major browsers. meanOs is Proud to be a BRAVE and TOR supporter, be free!!</p>
+<p>Mean OS is specifically designed to support both Brave and Tor but is compatible with all other major browsers. Mean OS is Proud to be a BRAVE and TOR supporter, be free!!</p>
 
-<a href="https://meanOs.obeyi.com"><img width="100%" src="https://cdn.obeyi.com/os/img/media/banner.png" /></a>
+<a href="https://mean.obeyi.com"><img width="100%" src="https://cdn.obeyi.com/os/img/media/banner.png" /></a>
 
  <table width="100%">
  <tr>
@@ -46,7 +46,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 - [GUI Options](#gui-options)
 
 <p align="right">
-    <a align="right" href="https://meanOs.obeyi.com">
+    <a align="right" href="https://mean.obeyi.com">
         <img  align="right" width="35%" src="https://cdn.obeyi.com/os/img/media/triangle2.gif" />
     </a>
 <p>
@@ -57,13 +57,13 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 - [Acknowledgements](#acknowledgements)
 
-- [meanOs (Operating System)](https://github.com/obeyi/meanOs/tree/master/ext)
+- [Mean OS (Operating System)](https://github.com/obeyi/Mean OS/tree/master/ext)
 
-- [meanOs (Server)](https://github.com/obeyi/meanOs/tree/master/server)
+- [Mean OS (Server)](https://github.com/obeyi/Mean OS/tree/master/server)
 
-- [meanOs (Player)](https://github.com/obeyi/meanOs/tree/master/player)
+- [Mean OS (Player)](https://github.com/obeyi/Mean OS/tree/master/player)
 
-- [meanOs (Theme)](https://github.com/obeyi/meanOs/tree/master/theme)
+- [Mean OS (Theme)](https://github.com/obeyi/Mean OS/tree/master/theme)
 
 <hr />
 
@@ -107,7 +107,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  ## Architecture
 
 <p align="right">
-    <a href="https://meanOs.obeyi.com/"><img align="right" width="30%" src="https://cdn.obeyi.com/os/img/media/fluid.gif" /></a>
+    <a href="https://mean.obeyi.com/"><img align="right" width="30%" src="https://cdn.obeyi.com/os/img/media/fluid.gif" /></a>
 </p>
 
 A - [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) is used as a way to persist the censorship circumvention library after the initial visit to the participating website.
@@ -127,7 +127,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
  ## Related Developments
 
 <p align="center">
-    <a align="center" href="https://meanOs.obeyi.com"><img align="center" width="60%" src="https://cdn.obeyi.com/os/img/media/banner2.gif" /></a>
+    <a align="center" href="https://mean.obeyi.com"><img align="center" width="60%" src="https://cdn.obeyi.com/os/img/media/banner2.gif" /></a>
 <p>
 
 - [x] https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
@@ -163,7 +163,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
  ## Acknowledgements
 
- <p>The following projects have been instrumental in the development to the development of meanOs:</p>
+ <p>The following projects have been instrumental in the development to the development of Mean OS:</p>
 
  <p align="center"><img src="https://gun.eco/see/compare.png" title="comparison table"></p>
 
@@ -213,6 +213,8 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 - [x] Botpress - The Leading Open-source Conversational AI Platform for Enterprise Automation
 
+- [x] Decentraland - Choose and customize your Avatar and get ready to set off on an adventure! Blockchain fueled virtual reality platform and users can explore, create, play games, collect wearables, monetize creation, leverage land plots, and 3D building techniques.
+
 <hr />
 
 <hr />
@@ -239,7 +241,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 <p align="center">
     <smaller>
         <i>
-        The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms
+        The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms
         </i>
     <smaller>
 </p>
