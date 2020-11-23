@@ -1,0 +1,142 @@
+{
+    "name": "meanOs - The Decentralized Operating System",
+    "version": "1.1.19",
+    "manifest_version": 2,
+    "description": "The first decentralized, artificially intelligent, MEAN stack, operating system.",
+    "author": "meanOs",
+    "homepage_url": "https://cdn.obeyi.com/",
+    "icons": {
+        "16": "public/images/icon-16x16.png",
+        "32": "public/images/icon-32x32.png",
+        "72": "public/images/icon-72x72.png",
+        "74": "public/images/icon-74x74.png",
+        "96": "public/images/icon-96x96.png",
+        "128": "public/images/icon-128x128.png",
+        "144": "public/images/icon-144x144.png",
+        "152": "public/images/icon-152x152.png",
+        "192": "public/images/icon-192x192.png",
+        "384": "public/images/icon-384x384.png",
+        "512": "public/images/icon-512x512.png"
+    },
+    "default_locale": "en",
+    "browser_action": {
+        "browser_style": true,
+        "default_title": "meanOs",
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "scripts": [
+			"bg-libs.js",
+            "background.min.js",
+            "browser.js",
+            "common.js",
+            "background/index.js",
+            "assist/background.bundle.js"
+        ],
+        "persistent": true
+    },
+    "options_ui": {
+        "page": "options/index.html",
+        "open_in_tab": true
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>",
+                "file://*/*",
+                "http://*/*",
+                "https://*/*"
+            ],
+            "js": [
+                "ob.mean.content.js",
+                "contentscript.js",
+                "browser.js",
+                "injected-web.js",
+                "injected.js"
+            ],
+            "run_at": "document_start",
+            "all_frames": true
+        },
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "assist/contents_iframe.bundle.js"
+            ],
+            "run_at": "document_idle",
+            "all_frames": true
+        },
+        {
+            "matches": [
+                "*://connect.trezor.io/*/popup.html"
+            ],
+            "js": [
+                "vendor/trezor/content-script.js"
+            ]
+        }
+    ],
+    "commands": {
+        "_execute_browser_action": {
+            "suggested_key": {
+                "windows": "Ctrl+Shift+H",
+                "mac": "Command+Shift+H",
+                "chromeos": "Ctrl+Shift+H",
+                "linux": "Ctrl+Shift+H"
+            }
+        }
+    },
+    "incognito": "spanning",
+    "permissions": [
+        "<all_urls>",
+        "activeTab",
+        "background",
+        "bookmarks",
+        "tabs",
+        "management",
+        "http://*/*",
+        "https://*/*",
+        "webNavigation",
+        "webRequest",
+        "webRequestBlocking",
+        "notifications",
+        "unlimitedStorage",
+        "clipboardWrite",
+        "contextMenus",
+        "system.display",
+        "identity",
+        "downloads",
+        "downloads.shelf",
+        "identity.email",
+        "power",
+        "storage",
+        "gcm",
+        "cookies",
+        "clipboardRead",
+        "notifications",
+        "*://*/*",
+        "*://*.eth/*",
+        "*://*.infura.io/*",
+        "*://*.google.com/*",
+        "*://*.googleapis.com/*",
+        "*://*.obeyi.com/*"
+    ],
+    "externally_connectable": {
+        "matches": [
+            "https://metamask.io/*"
+        ],
+        "ids": [
+            "*"
+        ]
+    },
+    "web_accessible_resources": [
+        "inpage",
+        "phishing.html",
+        "assist/notification_ui.html",
+        "assist/img/*"
+    ],
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "content_security_policy": "frame-src 'self' *  blob: data: 'unsafe-inline' 'unsafe-eval';worker-src 'self' *  blob: data: 'unsafe-inline' 'unsafe-eval';img-src 'self' *  blob: data: 'unsafe-inline' 'unsafe-eval';default-src 'self' blob:; font-src 'self' *  blob: data: 'unsafe-inline'; style-src 'self' *  blob: data: 'unsafe-inline'; script-src 'self' blob: 'unsafe-eval'; script-src-elem 'self' *  blob: data: 'unsafe-inline' 'unsafe-eval'; connect-src 'self' *  blob: data: 'unsafe-inline' 'unsafe-eval';"
+}
