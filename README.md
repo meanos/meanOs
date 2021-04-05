@@ -57,14 +57,6 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 - [Acknowledgements](#acknowledgements)
 
-- [Mean OS (Operating System)](https://github.com/obeyi/Mean OS/tree/master/ext)
-
-- [Mean OS (Server)](https://github.com/obeyi/Mean OS/tree/master/server)
-
-- [Mean OS (Player)](https://github.com/obeyi/Mean OS/tree/master/player)
-
-- [Mean OS (Theme)](https://github.com/obeyi/Mean OS/tree/master/theme)
-
 <hr />
 
 <hr />
