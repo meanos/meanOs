@@ -45,12 +45,6 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 - [GUI Options](#gui-options)
 
-<p align="right">
-    <a align="right" href="https://mean.obeyi.com">
-        <img  align="right" width="35%" src="https://cdn.obeyi.com/os/img/media/triangle2.gif" />
-    </a>
-<p>
-
 - [Architecture](#architecture)
 
 - [Related Developments](#related-developments)
