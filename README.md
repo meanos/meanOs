@@ -13,8 +13,6 @@
 [![Gitter](https://img.shields.io/gitter/room/violentmonkey/violentmonkey.svg)](https://gitter.im/violentmonkey/violentmonkey)
 [![TravisCI](https://travis-ci.org/violentmonkey/violentmonkey.svg?branch=master)](https://travis-ci.org/violentmonkey/violentmonkey)
  
- <a href="https://mean.obeyi.com"><img width="100%" src="https://cdn.obeyi.com/os/img/media/logo.png" /></a>
-
 The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms.
 
 <p>Mean OS is specifically designed to support both Brave and Tor but is compatible with all other major browsers. Mean OS is Proud to be a BRAVE and TOR supporter, be free!!</p>
@@ -46,6 +44,9 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  </table>
 
  <hr />
+ 
+ ![image](https://user-images.githubusercontent.com/6468571/168195630-0503ba5a-b63f-4316-afdc-315293d8b6c5.png)
+
  
 ## Content Summery
 
