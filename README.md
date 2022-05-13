@@ -12,10 +12,11 @@
 [![Gitter](https://img.shields.io/gitter/room/violentmonkey/violentmonkey.svg)](https://gitter.im/violentmonkey/violentmonkey)
 [![TravisCI](https://travis-ci.org/violentmonkey/violentmonkey.svg?branch=master)](https://travis-ci.org/violentmonkey/violentmonkey)
  
+<p align="center">
 ![image](https://user-images.githubusercontent.com/6468571/168201020-cd0d3120-cb5a-4973-aa74-d98756d80a8d.png)
  
  ![image](https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png)
- 
+  </p>
 <p>The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS is specifically designed to support both Brave and Tor but is compatible with all other major browsers. Mean OS is Proud to be a BRAVE and TOR supporter, be free!!</p>
  
  Any use of decentralization is a solution to the issues that are caused by centralized systems. Decentralization in government, which is the topic that has received the most attention, has been seen as a solution to problems such as economic decline, the inability of the government to fund services and their general decline in performance of overloaded services, the demands of minorities for a greater say in local governance, the general weakening of the legitimacy of the public sector, and global and international pressure on countries with inefficient, undemocratic, and overly centralized systems. 
@@ -62,10 +63,11 @@ The term "transparency," which can also be referred to as "single system picture
 
  <hr />
  
+<p align="center">
 ![image](https://user-images.githubusercontent.com/6468571/168201179-ed2b640e-0448-41af-9749-c7315cf71c17.png)
 
  ![image](https://user-images.githubusercontent.com/6468571/168201843-2e9614ea-a756-4e9a-8269-0a0888f30ebd.png)
-
+  </p>
 - [GUI Options](#gui-options)
 
 - [Architecture](#architecture)
@@ -97,10 +99,11 @@ The term "transparency," which can also be referred to as "single system picture
 
 <hr />
 
+<p align="center">
 ![image](https://user-images.githubusercontent.com/6468571/168201212-b7df6600-17ba-484f-b10d-f53116582567.png)
 
  ![image](https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png)
- 
+ </p>
 - [x] Google Fuchsia, Fuchsia is an open-source capability-based operating system currently being developed by Google. It first became known to the public when the project appeared on a self hosted form of git in August 2016 without any official announcement.
 
 <p align="center"><img width="800px" src="https://cdn.obeyi.com/os/img/fuschia-screenshot.jpg" /></p>
@@ -135,10 +138,11 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 <hr />
 
+<p align="center">
 ![image](https://user-images.githubusercontent.com/6468571/168201268-8eae3921-eaf1-4204-8aff-8c007f709775.png)
 
  ![image](https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png)
- 
+ </p>
 <p align="center">
     <a align="center" href="https://mean.obeyi.com"><img align="center" width="60%" src="https://cdn.obeyi.com/os/img/media/banner2.gif" /></a>
 <p>
@@ -174,10 +178,11 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 <hr />
 
+<p align="center">
  ![image](https://user-images.githubusercontent.com/6468571/168201376-5c9fb312-3dfb-4b92-85cd-513503174d94.png)
 
  ![image](https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png)
- 
+</p> 
  <p>The following projects have been instrumental in the development to the development of Mean OS:</p>
 
  <p align="center"><img src="https://gun.eco/see/compare.png" title="comparison table"></p>
