@@ -1,4 +1,4 @@
-<h1>Mean Operating System</h1>
+<h1>Mean OS - Web3 Operating System</h1>
 <p><i>The smallest and the most powerful operating system.</i></p>
 
 <p><b>NEW RELEASE</b><i> Web3 OS Update Comming Soon https://mean.ơs.com<i></p>
