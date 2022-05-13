@@ -14,7 +14,7 @@
 
 <br />
 
-<p align="center">
+<center>
   
 <a href="https://sourceforge.net/projects/meanos/files/latest/download" align="center"><img align="center" src="https://a.fsdn.com/con/app/sf-download-button" /></a>
 
@@ -24,7 +24,7 @@
 
 <img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" align="center" />
   
-</p>
+</center>
   
   <h3>MeanOS:</h3>
   <i>The Evoolution of Operating Systems.</i>
