@@ -1,21 +1,21 @@
 <img src="https://user-images.githubusercontent.com/6468571/168199509-54b94ba1-311c-4a0f-aef4-f42be9057e1e.png" />  
 <h1>MEAN OS: A WEB 3 DISTROBUTED OPERATING SYSTEM</h1>
 <img src="https://user-images.githubusercontent.com/6468571/168196519-b93b8303-2044-4fa9-b3f6-04231876864c.png" />
-<p>The smallest and the most powerful operating system.</i> <b>NEW RELEASE</b><i> Web3 OS Update Comming Soon https://mean.ơs.com</i>. Operating Systems have Evolved, subscribe to recieve an update when we releave the next version</p>
-<br /><br />
-
-[![Download MeanOS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/meanos/files/latest/download)
-  
-<br />
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jinjaccalgkegednnccohejagnlnfdag.svg)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 [![Firefox Add-ons](https://img.shields.io/amo/v/violentmonkey.svg)](https://addons.mozilla.org/firefox/addon/violentmonkey)
 [![Microsoft Edge Add-on](https://img.shields.io/badge/dynamic/json?label=microsoft%20edge%20add-on&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Feeagobfjdenkkddmbclomhiblgggliao)](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
 [![Gitter](https://img.shields.io/gitter/room/violentmonkey/violentmonkey.svg)](https://gitter.im/violentmonkey/violentmonkey)
 [![TravisCI](https://travis-ci.org/violentmonkey/violentmonkey.svg?branch=master)](https://travis-ci.org/violentmonkey/violentmonkey)
-   
+
+<br />
+[![Download MeanOS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/meanos/files/latest/download)
   <br />
   
+<p>The smallest and the most powerful operating system.</i> <b>NEW RELEASE</b><i> Web3 OS Update Comming Soon https://mean.ơs.com</i>. Operating Systems have Evolved, subscribe to recieve an update when we releave the next version</p>
+
+<br />
+
 <p align="center">
  <img src="https://user-images.githubusercontent.com/6468571/168195630-0503ba5a-b63f-4316-afdc-315293d8b6c5.png" align="center"/>
 </p>
