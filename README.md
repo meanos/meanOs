@@ -9,14 +9,14 @@
 [![TravisCI](https://travis-ci.org/violentmonkey/violentmonkey.svg?branch=master)](https://travis-ci.org/violentmonkey/violentmonkey)
 
 <br />
-
-[![Download MeanOS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/meanos/files/latest/download)
-
-  <br />
   
 <p>The smallest and the most powerful operating system.</i> <b>NEW RELEASE</b><i> Web3 OS Update Comming Soon https://mean.ơs.com</i>. Operating Systems have Evolved, subscribe to recieve an update when we releave the next version</p>
 
 <br />
+
+[![Download MeanOS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/meanos/files/latest/download)
+
+  <br />
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/6468571/168195630-0503ba5a-b63f-4316-afdc-315293d8b6c5.png" align="center"/>
