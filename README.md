@@ -16,7 +16,7 @@
 
 <p align="center">
   
-  <a href="https://a.fsdn.com/con/app/sf-download-button"><img src="https://sourceforge.net/projects/meanos/files/latest/download" /></a>
+  <a href="https://sourceforge.net/projects/meanos/files/latest/download"><img src="https://a.fsdn.com/con/app/sf-download-button" /></a>
   
   <br />
   
