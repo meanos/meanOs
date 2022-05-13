@@ -19,7 +19,7 @@
 
 <br />
   
-<p>The smallest and the most powerful operating system.</i> <b>NEW RELEASE</b><i> Web3 OS Update Comming Soon https://mean.ơs.com</i>. Operating Systems have Evolved, subscribe to recieve an update when we releave the next version</p>
+<p>The operating system with the smallest memory footprint and the highest performance levels.</i> <b>NEW RELEASE</b><i> A new version of the Web3 operating system will be released in the near future. https://mean.ơs.com</i>. Operating systems have been subjected to significant revisions; if you would want to be informed when the subsequent version is made available, please subscribe.</p>
 
 <br />
   
@@ -149,15 +149,15 @@
   
  </p>
  
-- [x] Google Fuchsia, Fuchsia is an open-source capability-based operating system currently being developed by Google. It first became known to the public when the project appeared on a self hosted form of git in August 2016 without any official announcement.
+- [x]Google Fuchsia is an open-source capability-based operating system that is currently undergoing active development by Google. Fuchsia is often referred to by the term Google Fuchsia. It was in August of 2016 that it first came to the attention of the general public. At that time, the project had been discovered on a self-hosted version of git without any official announcement.
 
 <p align="center"><img width="800px" src="https://cdn.obeyi.com/os/img/fuschia-screenshot.jpg" /></p>
 
-- [x] Kali Linux, Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security.
+- [x] The Linux operating system based on Debian serves as the foundation for the Linux distribution known as Kali Linux. Its primary purpose is to provide a platform for digital forensics and penetration testing. This is precisely why it was designed. Offensive Security is responsible for both the facility's maintenance and the providing of the necessary funds to run it.
 
 <p align="center"><img width="800px" src="https://cdn.obeyi.com/os/img/kali-screenshot.jpg" /></p>
 
-- [x] macOS, macOS is a series of proprietary graphical operating systems developed and marketed by Apple Inc. since 2001. It is the primary operating system for Apple's Mac computers. Within the market of desktop, laptop and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows.
+- [x] macOS is an exclusive line of graphical operating systems that Apple Inc. has developed and sold since 2001. Sometimes, macOS is referred to as macOS, which is a shortened version of the term. Apple's Macintosh computers use it as their principal operating system. The desktop operating system (OS) has the second largest market share within the desktop, laptop, and home computer markets, as well as by online use. This market share is only exceeded by Microsoft Windows' market share.
 
 <p align="center"><img width="800px" src="https://cdn.obeyi.com/os/img/macos-screenshot.png" /></p>
 
@@ -175,17 +175,17 @@
     <a href="https://mean.obeyi.com/"><img align="right" width="30%" src="https://cdn.obeyi.com/os/img/media/fluid.gif" /></a>
 </p>
 
-A - [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) is used as a way to persist the censorship circumvention library after the initial visit to the participating website.
+A - [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) - After the user has visited one of the participating websites for the first time, this approach continues to make the censorship circumvention library available to them. After the user has signed onto one of the websites, this occurs.
 
-Service workers essentially act as proxy servers that sit between web applications, the browser, and the network (when available). They are intended, among other things, to enable the creation of effective offline experiences, intercept network requests and take appropriate action based on whether the network is available, and update assets residing on the server. They will also allow access to push notifications and background sync APIs.
+Service workers are accountable for operating as proxy servers for the network, the browser, and any assigned web applications (when available). They are designed to, among other things, make it simpler to construct effective offline experiences, intercept network requests and take action depending on whether the network is accessible in response to those requests, and update server-hosted content. They are also designed to facilitate the development of offline experiences that are successful. In addition, they will enable access to the application programming interfaces (APIs) for push alerts and background sync for developers.
 
-After the ServiceWorker is downloaded and activated, it handles all `fetch()` events by first trying to use the regular HTTPS request to the original website. If that fails (for whatever reason, be it timeout, or a `4xx`/`5xx` error), the plugins kick-in, attempting to fetch the content via any means are available.
+After the ServiceWorker has been downloaded and activated, it will begin handling all 'fetch()' events by initiating a standard HTTPS request to the originating website. After the ServiceWorker has been made active, this will occur. After the ServiceWorker has been made accessible to the client, this happens. If it does not function (for whatever reason; it might be a timeout or an error reading '4xx' or '5xx'), the plugins will attempt to get the content using any accessible way. If it fails, the plugins will attempt to get the content using any accessible mechanism.
 
-A service worker is an event-driven worker registered against an origin and a path. It takes the form of a JavaScript file that can control the web-page/site that it is associated with, intercepting and modifying navigation and resource requests, and caching resources in a very granular fashion to give you complete control over how your app behaves in certain situations (the most obvious one being when the network is not available).
+A service worker is an event-driven worker whose origin and path have been recorded. Service workers are often implemented in distributed systems. It takes the form of a JavaScript file that is capable of controlling the web page or site with which it is associated, intercepting and modifying navigation and resource requests, and caching resources in a very granular manner to provide you with complete control over how your application behaves under specific conditions. This allows you to configure how your application reacts to certain circumstances (the most obvious one being when the network is not available).
 
-A service worker is run in a worker context: it therefore has no DOM access, and runs on a different thread to the main JavaScript that powers your app, so it is non-blocking. It is designed to be fully async; as a consequence, APIs such as synchronous XHR and localStorage can't be used inside a service worker.
+A service worker does not have access to the Document Object Model since it is run in a worker context (DOM). In addition, a service worker's execution is non-blocking because it operates on a separate thread than the primary JavaScript code that runs your application. APIs like as synchronous XHR and localStorage cannot be used inside a service worker since it is supposed to be completely asynchronous. This is a product of the technological architecture.
 
-Service workers only run over HTTPS, for security reasons. Having modified network requests, wide open to man in the middle attacks would be really bad. In Firefox, Service Worker APIs are also hidden and cannot be used when the user is in private browsing mode.
+Due to the possibility of security vulnerabilities, service workers may only operate via HTTPS. Modified network requests that are widely vulnerable to man in the middle attacks are a terrible idea and must be avoided at all costs. Firefox hides Service Worker APIs whenever the user switches to private browsing mode. Users cannot use these APIs because they are unavailable.
 
 <hr />
 
@@ -207,23 +207,23 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 - [x] https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
 
-<p>Neocities has collaborated with Protocol Labs to become the first major site to implement IPFS in production. Starting today, all Neocities web sites are available for viewing, archiving, and hosting by any IPFS node in the world. When another IPFS node chooses to host a site from Neocities, that version of the site will continue to be available, even if Neocities shuts down or stops hosting it. The more IPFS nodes seed Neocities sites, the more available (and redundant) Neocities sites become. And the less centrally dependent the sites are on us to continue existing.</p>
+<p>As a result of a partnership with Protocol Labs, Neocities has become the first big website to use IPFS in production. Currently, any IPFS node on the planet can view, archive, and host all Neocities websites. If another IPFS node agrees to serve a site that was previously hosted by Neocities, then that version of the site will remain accessible even if Neocities ceases providing it or closes down. This is because another IPFS node, not Neocities, will host the website. The greater the number of IPFS nodes seeding Neocities sites, the greater the number of accessible Neocities sites (and redundant). And the less the sites rely on us as their major source of survival, the better off they will be.</p>
 
 - [x] https://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/
 
-<p>Presentation by Brewster Kahle, Internet Archive Digital Librarian at Ford Foundation NetGain gathering, — a call from 5 top foundations to think big about prospects for our digital future.  (More detailed version)</p>
+<p>Brewster Kahle, the Digital Librarian of the Internet Archive, made a presentation at the Ford Foundation NetGain conference. This event, which was organized by five of the nation's most famous foundations, served as a provocation to consider expansively the prospects given by our digital future. (The lengthier and more exhaustive version)</p>
 
 - [x] https://censorship.no/
 
-<p>Designed for accessing websites from the stringest network environments, the censorship.no project (CENO) by eQualit.ie , allows you to browse the Web without restriction, circumventing any network filtering. The underlying architecture offers peer-to-peer routing and distributed caching, using 'darknet' infrastructure to avoid network censorship and bring the Web to your browser.</p>
+<p>eQualit established the censorship.no initiative, also known as CENO, with the purpose of enabling users to see websites under the most restricted network conditions. You can evade network filtering limitations by using Internet Explorer, which enables you to access the Internet without limits. Peer-to-peer routing and distributed caching are provided by the underlying architecture, which uses the 'darknet' infrastructure to circumvent network limits and give your browser with Web access. This enables network limitations to be circumvented.</p>
 
 - [x] https://netblocks.org/
 
-<p>NetBlocks is a civil society group working at the intersection of digital rights, cyber-security and internet governance. Independent and non-partisan, NetBlocks strives for an open and inclusive digital future for all.</p>
+<p>The non-profit organization known as NetBlocks focuses on Internet governance, cyber security, and digital rights. They are engaged in activities at the crossroads of these three issues. NetBlocks is a non-profit organization whose mission is to create a digital future that is accessible and inclusive for all individuals. This organization is nonpartisan and acts autonomously.</p>
 
 - [x] https://samizdat.is/
 
-<p>Samizdat is a browser-based Web censorship circumvention library, easily deployable on any website.</p>
+<p>Samizdat is a web-based library that can be loaded effortlessly on any website. Its objective is to evade the ubiquitous censorship on the internet.</p>
 
 <table  align="center" width="100%">
  <tr>
@@ -246,57 +246,57 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
   
 </p> 
 
- <p>The following projects have been instrumental in the development to the development of Mean OS:</p>
+ <p>The following projects were essential to the development of Mean OS and should be appropriately attributed.:</p>
 
  <p align="center"><img src="https://gun.eco/see/compare.png" title="comparison table"></p>
 
-- [x] Gun: GUN is a data­base en­gine that runs every­where JavaScript does — browsers, mo­bile de­vices and servers, al­low­ing you to build ex­act­ly the data sys­tem you want.
+- [x] GUN is a data­base en­gine that runs everywhere JavaScript does, includ­ing web browsers, mobile de­vices, and servers. This enables you to construct the precise data system you want.
 
-- [x] InterPlanetary File System: The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.
+- [x] InterPlanetary File System: The InterPlanetary File System is a protocol and peer-to-peer network that allows users to store and exchange data in a distributed file system. This is possible using the InterPlanetary File System's peer-to-peer networking function. IPFS uses content-addressing to provide a unique identifier for each file inside a global namespace that connects all computing devices. This is achieved by the use of a distributed hashing method.
 
-- [x] Web Server Chrome: An HTTP Web Server for Chrome (chrome.sockets API)
+- [x] A custom-built Hypertext Transfer Protocol Web Server for use with Google Chrome's Web Server (chrome.sockets API)
 
-- [x] Violentmonkey: Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
+- [x] Violentmonkey is a browser-additional userscripts support tool made available by Violentmonkey. Violentmonkey is the provider of Violentmonkey's services. It will only function with web browsers that support WebExtensions, since this is the only compatibility requirement.
 
-- [x] Samizdat: A decentralized website, browser-based solution to Internet censorship that requires no additional software for website visitors and minimal configuration for website admins.
+- [x] Samizdat is a browser-based, decentralized website solution that tackles the issue of internet censorship. Samizdat was created in response to this problem. Users who want to visit the website will not be needed to download and install any additional software, and administrators will have to do very little setup.
 
-- [x] Cloudflare: Cloudflare, Inc. is an American web-infrastructure and website-security company, providing content-delivery-network services, DDoS mitigation, Internet security, and distributed domain-name-server services.
+- [x] Cloudflare is a global company established in the United States that specializes in the supply of internet infrastructure and website security. Cloudflare, Inc. offers a variety of services to its clients, including protection against distributed denial-of-service attacks (DDoS), content delivery network services, internet protection, and distributed domain name server services.
 
-- [x] Fuchsia-web-demo: Pink + Purple + Web == Fuchsia Web Demo - (unofficial). The Fuchsia Web Demo tried to simulate the UI and animations of Fuchsia OS Armadillo. RIP Armadillo. Simple Web Demo that simulates Google's new OS. Works across devices. 
+- [x] Fuchsia-web-demo: Pink + Purple + Web == Fuchsia Web Demo - (unofficial). The Fuchsia Web Demo attempted to reproduce the Fuchsia OS Armadillo's user interface (UI) and animations. RIP Armadillo. A simple Web Demo that imitates Google's next operating system. It is compatible with all platforms and smartphones.
 
-- [x] Mac OS X Lion with CSS3: Mac Os X Lion with CSS3 Experiment by Alessio Atzeni - I wanted to create with only use of CSS3 the boot, the login page and finally the desktop of the Mac OS X Lion. 
+- [x] Mac OS X Lion with CSS3 Experiment by Alessio Atzeni - Mac OS X Lion with CSS3 Experimentation by Alessio Atzeni My purpose was to create the boot process, the login page, and the desktop of the Mac OS X Lion operating system using just CSS3.
 
 - [x] Webix Web Desktop: Web Desktop on top of Webix UI, based on Webix UI widgets.
 
-- [x] Vercel: Vercel is the easiest way to deploy websites. Host your web projects with zero configuration, automatic SSL, and global CDN.
+- [x] Vercel is the least complex method for launching websites, according to Vercel. Your online projects may be hosted here with no configuration required, an automated SSL certificate, and a global content delivery network.
 
-- [x] BrowserStack: BrowserStack is a cloud web and mobile testing platform that enables developers to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices, without requiring users to install or maintain an internal lab of virtual machines, devices or emulators.
+- [x] BrowserStack is an online and mobile testing platform in the cloud that allows developers to test their websites and mobile apps across several browsers, operating systems, and actual mobile devices. Because the platform is hosted in the cloud, users are not needed to install or maintain an internal lab of virtual machines, devices, or emulators while utilizing BrowserStack.
 
-- [x] web3.js  - Ethereum JavaScript API. This is the Ethereum JavaScript API which connects to the Generic JSON-RPC spec. You need to run a local or remote Ethereum node to use this library. Please read the documentation for more.
+- [x] Web3.js is the JavaScript Application Programming Interface of Ethereum. You may use the Ethereum JavaScript API through this page, which contains a link to the Generic JSON-RPC standard. You must guarantee that a local or remote Ethereum node is operational and connecting with the network in order to use this library. Please consult the manuals for any further information you want.
 
-- [x] 3box.io - The easiest way for Ethereum apps to manage user data.
+- [x] The Ethereum application known as 3box.io simplifies and simplifies the process of processing user data as much as is practically possible at this moment.
 
-- [x] x86 - Virtualization in JavaScript, running in your browser and NodeJS
+- [x] Utilizing Node.js in the browser to introduce JavaScript Virtualization to x86 systems.
 
-- [x] MetaMask -  The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [x] When users install the MetaMask browser extension, they can view websites that can communicate with the Ethereum blockchain.
 
-- [x] Email Generator - A great way to protect your primary mailbox from junk e-mail avoid spam and stay safe.
+- [x] Email Generator is an excellent tool for protecting your primary inbox from undesired junk e-mail, blocking spam, and maintaining your online safety and security.
 
-- [x] PearDownloader - A downloader that supports multi-protocol, multi-source, and hybrid P2P-CDN
+- [x] PearDownloader is a download manager that supports many protocols, multiple sources, and hybrid peer-to-peer and content distribution network (P2P-CDN) distribution networks.
 
-- [x] Afraim - web framework for building virtual reality experiences.
+- [x] A web framework named Afraim has been created to aid in the production of virtual reality experiences and facilitate their construction.
 
-- [x] Flutter - Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+- [x] Flutter is Google's UI toolkit for developing native applications for mobile, web, and desktop platforms from a single source of code. Flutter may also be utilized for development across several platforms. 2015 saw the introduction of Flutter. Google was the company that came up with the concept for Flutter.
 
-- [x] Dart - Dart is a client-optimized language for fast apps on any platform.
+- [x] Dart is a client-focused programming language designed to facilitate the quick development of applications across several platforms.
 
-- [x] Material Components - Build beautiful, usable products with Material Components for Android, Flutter, iOS, and the web.
+- [x] If you use Google's Material Components, which are available for Android, Flutter, iOS, and the web, you'll be able to develop products that are not just visually beautiful but also practical.
 
-- [x] Heroku - Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+- [x] Heroku is a platform as a service (PaaS), which means it enables developers to build, operate, and manage their applications entirely in the cloud. Due to the fact that Heroku is a Platform as a Service (PaaS), this is now attainable.
 
-- [x] Botpress - The Leading Open-source Conversational AI Platform for Enterprise Automation
+- [x] Botpress, the most popular open-source platform for conversational artificial intelligence, is utilized in corporate automation and by enterprises throughout the globe.
 
-- [x] Decentraland - Choose and customize your Avatar and get ready to set off on an adventure! Blockchain fueled virtual reality platform and users can explore, create, play games, collect wearables, monetize creation, leverage land plots, and 3D building techniques.
+- [x] In Decentraland, you may choose and customize your Avatar before to embarking on an exciting voyage. On a blockchain-powered virtual reality platform, users may explore, create, play games, collect wearables, monetize creativity, utilize land plots, and practice 3D construction techniques.
 
 <hr />
 
@@ -321,7 +321,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 <hr />
 
-<p align="center"><i>The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms </i></p>
+<p align="center"><i>The first decentralized, artificially intelligent operating system built on the MEAN.js stack. Mean OS is the first operating system hosted anonymously through a P2P network and non-standard in-browser distribution techniques.</i></p>
   
 
 <p align="center">
