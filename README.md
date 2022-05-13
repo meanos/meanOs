@@ -1,5 +1,8 @@
 <img src="https://user-images.githubusercontent.com/6468571/168199509-54b94ba1-311c-4a0f-aef4-f42be9057e1e.png" />  
 <h1>MEAN OS: A WEB 3 DISTROBUTED OPERATING SYSTEM</h1>
+
+<div align="center">
+  
 <img src="https://user-images.githubusercontent.com/6468571/168196519-b93b8303-2044-4fa9-b3f6-04231876864c.png" />
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jinjaccalgkegednnccohejagnlnfdag.svg)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
@@ -13,8 +16,6 @@
 <p>The smallest and the most powerful operating system.</i> <b>NEW RELEASE</b><i> Web3 OS Update Comming Soon https://mean.ơs.com</i>. Operating Systems have Evolved, subscribe to recieve an update when we releave the next version</p>
 
 <br />
-
-<center>
   
 <a href="https://sourceforge.net/projects/meanos/files/latest/download" align="center"><img align="center" src="https://a.fsdn.com/con/app/sf-download-button" /></a>
 
@@ -24,7 +25,7 @@
 
 <img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" align="center" />
   
-</center>
+</div>
   
   <h3>MeanOS:</h3>
   <i>The Evoolution of Operating Systems.</i>
@@ -138,6 +139,7 @@
  <img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" />
   
  </p>
+ 
 - [x] Google Fuchsia, Fuchsia is an open-source capability-based operating system currently being developed by Google. It first became known to the public when the project appeared on a self hosted form of git in August 2016 without any official announcement.
 
 <p align="center"><img width="800px" src="https://cdn.obeyi.com/os/img/fuschia-screenshot.jpg" /></p>
@@ -152,7 +154,13 @@
 
 <hr />
 
- ## Architecture
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/6468571/168284693-6a2dcc3e-ea0d-4bc5-92fd-31fa6964d043.png" />
+
+ <img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" />
+  
+ </p>
 
 <p align="right">
     <a href="https://mean.obeyi.com/"><img align="right" width="30%" src="https://cdn.obeyi.com/os/img/media/fluid.gif" /></a>
@@ -178,11 +186,12 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
   
 <p align="center">
   
-![image](https://user-images.githubusercontent.com/6468571/168201268-8eae3921-eaf1-4204-8aff-8c007f709775.png" />
+<img src="https://user-images.githubusercontent.com/6468571/168201268-8eae3921-eaf1-4204-8aff-8c007f709775.png" />
 
- ![image](https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" />
+ <img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" />
   
  </p>
+ 
 <p align="center">
     <a align="center" href="https://mean.obeyi.com"><img align="center" width="60%" src="https://cdn.obeyi.com/os/img/media/banner2.gif" /></a>
 <p>
@@ -227,6 +236,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
  <img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" />
   
 </p> 
+
  <p>The following projects have been instrumental in the development to the development of Mean OS:</p>
 
  <p align="center"><img src="https://gun.eco/see/compare.png" title="comparison table"></p>
@@ -302,13 +312,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 <hr />
 
-<p align="center">
-    <smaller>
-        <i>
-        The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms
-        </i>
-    <smaller>
-</p>
+<p align="center"><i>The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms </i></p>
   
 
 <p align="center">
