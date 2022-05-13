@@ -16,20 +16,15 @@
 
 <p align="center">
   
-  <a href="https://sourceforge.net/projects/meanos/files/latest/download"><img src="https://a.fsdn.com/con/app/sf-download-button" /></a>
+  <a href="https://sourceforge.net/projects/meanos/files/latest/download" align="center"><img align="center" src="https://a.fsdn.com/con/app/sf-download-button" /></a>
   
   <br />
   
  <img src="https://user-images.githubusercontent.com/6468571/168195630-0503ba5a-b63f-4316-afdc-315293d8b6c5.png" align="center"/>
-</p>
- 
-  <br />
   
-<p align="center">
-  
-<img src="https://user-images.githubusercontent.com/6468571/168201020-cd0d3120-cb5a-4973-aa74-d98756d80a8d.png" />
+<img src="https://user-images.githubusercontent.com/6468571/168201020-cd0d3120-cb5a-4973-aa74-d98756d80a8d.png" align="center" />
  
-<img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" />
+<img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" align="center" />
   
   </p>
   
