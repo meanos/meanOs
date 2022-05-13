@@ -1,9 +1,6 @@
+<img src="https://user-images.githubusercontent.com/6468571/168199509-54b94ba1-311c-4a0f-aef4-f42be9057e1e.png" />
 <h1>Mean OS - Web3 Operating System</h1>
-<p><i>The smallest and the most powerful operating system.</i></p>
-
-<p><b>NEW RELEASE</b><i> Web3 OS Update Comming Soon https://mean.ơs.com<i></p>
- 
-<p>Operating Systems have Evolved, subscribe to recieve an update when we releave the next version</p>
+<p><i>The smallest and the most powerful operating system.</i><b>NEW RELEASE</b><i> Web3 OS Update Comming Soon https://mean.ơs.com<i>. Operating Systems have Evolved, subscribe to recieve an update when we releave the next version</p>
  
 ![image](https://user-images.githubusercontent.com/6468571/168196519-b93b8303-2044-4fa9-b3f6-04231876864c.png)
 
@@ -22,6 +19,10 @@
  In many different studies of decentralization, the following four aims or purposes are usually described as being important. A blockchain-based hosting service is frequently referred to as decentralized hosting. This is due to the fact that blockchain-based hosting is not maintained by a single corporate or third-party organization. Hosting from peer to peer, as opposed to hosting from client to server, is the primary focus of this particular platform. The software that makes up an operating system is designed to function on a networked collection of computer nodes that are autonomous, communicative, and physically separate from one another. They are responsible for ensuring the completion of activities that are being worked on simultaneously by a very large number of CPUs. 
  
  Each component of the global aggregate operating system is kept separately while the full system is preserved on the storage device that is associated with each node. Every one of these subsets is the product of a joint effort on the part of two different service providers. The first type is the ubiquitous minimal kernel, which also goes by the name microkernel and has direct control over a node's hardware. This sort of kernel is often used in embedded systems. This variety will account for the vast majority of the kernels that are produced. A broad collection of system management components come together to form the subnode, which is sometimes referred to as the second half of a node. The coordination of the individual and collective functions of the node is the responsibility of these management components of the system. These components are designed to support user applications while concealing the functionality of the underlying microkernel.
+ 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/6468571/168195630-0503ba5a-b63f-4316-afdc-315293d8b6c5.png" align="center"/>
+</p>
  
 It is generally agreed that HostCoin was the first decentralized hosting service to be built on blockchain technology. It intends to do this by using hosting that is based on blockchain technology. The microkernel and a collection of management components collaborate in order to effectively carry out their individual but interconnected roles in the system. They provide a contribution to the overall purpose of the system, which is to integrate a wide range of resources and processing methods into a system that is dependable and effective. This is the end aim that the system was created to achieve, and it is something to which they have contributed.
  
@@ -56,8 +57,6 @@ The term "transparency," which can also be referred to as "single system picture
  </table>
 
  <hr />
- 
- ![image](https://user-images.githubusercontent.com/6468571/168195630-0503ba5a-b63f-4316-afdc-315293d8b6c5.png)
 
  
 ## Content Summery
@@ -250,4 +249,8 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
         </i>
     <smaller>
 </p>
+  
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/6468571/168195630-0503ba5a-b63f-4316-afdc-315293d8b6c5.png" align="center"/>
+</p>
