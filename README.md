@@ -14,11 +14,12 @@
 
 <br />
 
-[![Download MeanOS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/meanos/files/latest/download)
-
-  <br />
-
 <p align="center">
+  
+  <a href="https://a.fsdn.com/con/app/sf-download-button"><img src="https://sourceforge.net/projects/meanos/files/latest/download" /></a>
+  
+  <br />
+  
  <img src="https://user-images.githubusercontent.com/6468571/168195630-0503ba5a-b63f-4316-afdc-315293d8b6c5.png" align="center"/>
 </p>
  
