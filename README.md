@@ -2,8 +2,8 @@
 <p><i>The smallest and the most powerful operating system.</i></p>
 
 <p><b>NEW RELEASE</b><i> Web3 OS Upgrade is Coming Soon https://mean.ơs.com<i></p>
-
-<a href="https://mean.obeyi.com"><img width="100%" src="https://cdn.obeyi.com/os/img/media/logo.png" /></a>
+ 
+ ![image](https://user-images.githubusercontent.com/6468571/168195344-d80f60f3-215c-42f6-9832-ad80501b34f1.png)
 
 [![Download MeanOS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/meanos/files/latest/download)
 
@@ -12,6 +12,8 @@
 [![Microsoft Edge Add-on](https://img.shields.io/badge/dynamic/json?label=microsoft%20edge%20add-on&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Feeagobfjdenkkddmbclomhiblgggliao)](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
 [![Gitter](https://img.shields.io/gitter/room/violentmonkey/violentmonkey.svg)](https://gitter.im/violentmonkey/violentmonkey)
 [![TravisCI](https://travis-ci.org/violentmonkey/violentmonkey.svg?branch=master)](https://travis-ci.org/violentmonkey/violentmonkey)
+ 
+ <a href="https://mean.obeyi.com"><img width="100%" src="https://cdn.obeyi.com/os/img/media/logo.png" /></a>
 
 The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms.
 
