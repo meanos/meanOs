@@ -1,9 +1,11 @@
 <h1>Mean Operating System</h1>
 <p><i>The smallest and the most powerful operating system.</i></p>
 
-<p><b>NEW RELEASE</b><i> Web3 OS Upgrade is Coming Soon https://mean.ơs.com<i></p>
+<p><b>NEW RELEASE</b><i> Web3 OS Update Comming Soon https://mean.ơs.com<i></p>
  
- ![image](https://user-images.githubusercontent.com/6468571/168195344-d80f60f3-215c-42f6-9832-ad80501b34f1.png)
+<p>Operating Systems have Evolved, subscribe to recieve an update when we releave the next version</p>
+ 
+![image](https://user-images.githubusercontent.com/6468571/168196519-b93b8303-2044-4fa9-b3f6-04231876864c.png)
 
 [![Download MeanOS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/meanos/files/latest/download)
 
