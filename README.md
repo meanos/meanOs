@@ -12,6 +12,8 @@
 [![Gitter](https://img.shields.io/gitter/room/violentmonkey/violentmonkey.svg)](https://gitter.im/violentmonkey/violentmonkey)
 [![TravisCI](https://travis-ci.org/violentmonkey/violentmonkey.svg?branch=master)](https://travis-ci.org/violentmonkey/violentmonkey)
  
+  <br />
+  
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/6468571/168201020-cd0d3120-cb5a-4973-aa74-d98756d80a8d.png" />
@@ -65,6 +67,8 @@ The term "transparency," which can also be referred to as "single system picture
 
  <hr />
  
+  <br />
+  
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/6468571/168201179-ed2b640e-0448-41af-9749-c7315cf71c17.png" />
@@ -103,6 +107,8 @@ The term "transparency," which can also be referred to as "single system picture
 
 <hr />
 
+  <br />
+  
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/6468571/168201212-b7df6600-17ba-484f-b10d-f53116582567.png" />
@@ -144,6 +150,10 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 <hr />
 
+  <br />
+  
+  <br />
+  
 <p align="center">
   
 ![image](https://user-images.githubusercontent.com/6468571/168201268-8eae3921-eaf1-4204-8aff-8c007f709775.png" />
@@ -186,6 +196,8 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 <hr />
 
+  <br />
+  
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/6468571/168201376-5c9fb312-3dfb-4b92-85cd-513503174d94.png" />
