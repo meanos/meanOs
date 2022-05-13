@@ -1,15 +1,21 @@
 <img src="https://user-images.githubusercontent.com/6468571/168199509-54b94ba1-311c-4a0f-aef4-f42be9057e1e.png" />  
+<hr />
+
 <h1>MEAN OS: A WEB 3 DISTROBUTED OPERATING SYSTEM</h1>
 
 <div align="center">
   
 <img src="https://user-images.githubusercontent.com/6468571/168196519-b93b8303-2044-4fa9-b3f6-04231876864c.png" />
 
+<hr />
+
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jinjaccalgkegednnccohejagnlnfdag.svg)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 [![Firefox Add-ons](https://img.shields.io/amo/v/violentmonkey.svg)](https://addons.mozilla.org/firefox/addon/violentmonkey)
 [![Microsoft Edge Add-on](https://img.shields.io/badge/dynamic/json?label=microsoft%20edge%20add-on&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Feeagobfjdenkkddmbclomhiblgggliao)](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
 [![Gitter](https://img.shields.io/gitter/room/violentmonkey/violentmonkey.svg)](https://gitter.im/violentmonkey/violentmonkey)
 [![TravisCI](https://travis-ci.org/violentmonkey/violentmonkey.svg?branch=master)](https://travis-ci.org/violentmonkey/violentmonkey)
+
+<hr />
 
 <br />
   
@@ -62,6 +68,8 @@
     
  <p>It is a digital record of transactions that have been duplicated and distributed throughout the whole blockchain network of computers. This record is kept in chronological order. A record of each new transaction that takes place on the blockchain is recorded to the ledgers of each participant as soon as the transaction is completed. Any use of decentralization is a solution to the issues that are caused by centralized systems. Decentralization in government, which is the topic that has received the most attention, has been seen as a solution to problems such as economic decline, the inability of the government to fund services and their general decline in performance of overloaded services, the demands of minorities for a greater say in local governance, the general weakening of the legitimacy of the public sector, and global and international pressure on countries with inefficient, undemocratic, and overly centralized systems. In many different studies of decentralization, the following four aims or purposes are usually described as being important.</p>
 
+<hr />
+
 <a href="https://mean.obeyi.com"><img width="100%" src="https://cdn.obeyi.com/os/img/media/banner.png" /></a>
 
  <table width="100%">
@@ -99,6 +107,7 @@
 <img src="https://user-images.githubusercontent.com/6468571/168201843-2e9614ea-a756-4e9a-8269-0a0888f30ebd.png" />
   
   </p>
+  
 - [GUI Options](#gui-options)
 
 - [Architecture](#architecture)
