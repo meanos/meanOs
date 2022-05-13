@@ -1,10 +1,12 @@
-<img src="https://user-images.githubusercontent.com/6468571/168199509-54b94ba1-311c-4a0f-aef4-f42be9057e1e.png" />
+<img src="https://user-images.githubusercontent.com/6468571/168199509-54b94ba1-311c-4a0f-aef4-f42be9057e1e.png" />  
 <h1>MEAN OS: A WEB 3 DISTROBUTED OPERATING SYSTEM</h1>
+<img src="https://user-images.githubusercontent.com/6468571/168196519-b93b8303-2044-4fa9-b3f6-04231876864c.png" />
 <p><i>The smallest and the most powerful operating system.</i><b>NEW RELEASE</b><i> Web3 OS Update Comming Soon https://mean.ơs.com<i>. Operating Systems have Evolved, subscribe to recieve an update when we releave the next version</p>
-  
-![image](https://user-images.githubusercontent.com/6468571/168196519-b93b8303-2044-4fa9-b3f6-04231876864c.png)
+<br /><br />
 
 [![Download MeanOS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/meanos/files/latest/download)
+  
+<br />
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jinjaccalgkegednnccohejagnlnfdag.svg)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 [![Firefox Add-ons](https://img.shields.io/amo/v/violentmonkey.svg)](https://addons.mozilla.org/firefox/addon/violentmonkey)
