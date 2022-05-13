@@ -1,6 +1,6 @@
 <h1>Mean Operating System</h1>
 <p><i>The smallest and the most powerful operating system.</i></p>
-
+<p><b>NEW RELEASE</b> The Latest Web3 OS Release is Coming Soon https://mean.ơs.com</p>
 <a href="https://mean.obeyi.com"><img width="100%" src="https://cdn.obeyi.com/os/img/media/logo.png" /></a>
 [![Download MeanOS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/meanos/files/latest/download)
 
