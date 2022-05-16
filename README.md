@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/6468571/168199509-54b94ba1-311c-4a0f-aef4-f42be9057e1e.png" />  
 <hr />
 
-<h1>MEAN OS: A WEB 3 DISTROBUTED OPERATING SYSTEM</h1>
+<h1>MEAN OS: A WEB 3 DISTRIBUTED OPERATING SYSTEM</h1>
 
 <div align="center">
   
