@@ -41,7 +41,7 @@
   <h3>Decentralization:</h3>
  <b><i>The dispersion or distribution of functions and powers a decentralization of powers.</i></b>
   
- Any use of decentralization is a solution to the issues that are caused by centralized systems. Decentralization in government, which is the topic that has received the most attention, has been seen as a solution to problems such as economic decline, the inability of the government to fund services and their general decline in performance of overloaded services, the demands of minorities for a greater say in local governance, the general weakening of the legitimacy of the public sector, and global and international pressure on countries with inefficient, undemocratic, and overly centralized systems. </p>
+ Any use of decentralization is a solution to the issues that are caused by centralized systems. Decentralization in government, which is the topic that has received the most attention, has been seen as a solution to problems such as economic decline, the inability of the government to fund services and their general decline in the performance of overloaded services, the demands of minorities for a greater say in local governance, the general weakening of the legitimacy of the public sector, and global and international pressure on countries with inefficient, undemocratic, and overly centralized systems. </p>
   
   <h3>Blockchain:</h3>
  <b><i>A blockchain is a decentralized ledger of all transactions across a peer-to-peer network.</i></b>
