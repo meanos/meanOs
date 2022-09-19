@@ -4,7 +4,7 @@
     "manifest_version": 2,
     "description": "The first decentralized, artificially intelligent, MEAN stack, operating system.",
     "author": "meanOs",
-    "homepage_url": "https://cdn.obeyi.com/",
+    "homepage_url": "https://mean.ơs.com/",
     "icons": {
         "16": "public/images/icon-16x16.png",
         "32": "public/images/icon-32x32.png",
