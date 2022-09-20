@@ -11,9 +11,7 @@
 [![Microsoft Edge Add-on](https://img.shields.io/badge/dynamic/json?label=microsoft%20edge%20add-on&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Feeagobfjdenkkddmbclomhiblgggliao)](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
 [![Gitter](https://img.shields.io/gitter/room/violentmonkey/violentmonkey.svg)](https://gitter.im/violentmonkey/violentmonkey)
 [![TravisCI](https://travis-ci.org/violentmonkey/violentmonkey.svg?branch=master)](https://travis-ci.org/violentmonkey/violentmonkey)
-<hr />
-<br />
-<img src="https://user-images.githubusercontent.com/6468571/191245776-0506bcaf-d82d-4488-80bf-29738166c355.jpg" align="center" />
+<hr /><img src="https://user-images.githubusercontent.com/6468571/191245776-0506bcaf-d82d-4488-80bf-29738166c355.jpg" align="center" /><br /><br />
 <p>The operating system with the smallest memory footprint and the highest performance levels.</i> <b>NEW RELEASE</b><i> A new version of the Web3 operating system will be released in the near future. https://mean.ơs.com</i>. Operating systems have been subjected to significant revisions; if you would want to be informed when the subsequent version is made available, please subscribe.</p>
 <br /><br />
 <a href="https://sourceforge.net/projects/meanos/files/latest/download" align="center"><img align="center" src="https://a.fsdn.com/con/app/sf-download-button" /></a>
