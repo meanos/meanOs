@@ -1,14 +1,10 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/6468571/168195630-0503ba5a-b63f-4316-afdc-315293d8b6c5.png" align="center"/>
+<img src="https://user-images.githubusercontent.com/6468571/191240291-7e270d64-5f86-4805-97bb-892ac67b3ddb.png" align="center"/>
   </div>
 <div align="center">
 <h1 align="center">MEAN OS: A WEB 3 DISTRIBUTED OPERATING SYSTEM</h1>
 </div>
 <div align="center">
-  
-<img src="https://user-images.githubusercontent.com/6468571/168196519-b93b8303-2044-4fa9-b3f6-04231876864c.png" />
-
-<hr />
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jinjaccalgkegednnccohejagnlnfdag.svg)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 [![Firefox Add-ons](https://img.shields.io/amo/v/violentmonkey.svg)](https://addons.mozilla.org/firefox/addon/violentmonkey)
@@ -21,21 +17,14 @@
 <br />
   
 <p>The operating system with the smallest memory footprint and the highest performance levels.</i> <b>NEW RELEASE</b><i> A new version of the Web3 operating system will be released in the near future. https://mean.ơs.com</i>. Operating systems have been subjected to significant revisions; if you would want to be informed when the subsequent version is made available, please subscribe.</p>
-
 <br />
-  
 <a href="https://sourceforge.net/projects/meanos/files/latest/download" align="center"><img align="center" src="https://a.fsdn.com/con/app/sf-download-button" /></a>
-
-<br />
-
-<img src="https://user-images.githubusercontent.com/6468571/168201020-cd0d3120-cb5a-4973-aa74-d98756d80a8d.png" align="center" />
-
+<br /><br /><br />
+<img src="https://user-images.githubusercontent.com/6468571/191240562-c915a7d8-b902-4c66-bc49-9997bfaf0ce3.png" align="center" />
 <img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" align="center" />
-  
 </div>
   
-  <h3>MeanOS:</h3>
-  <b><i>The Evoolution of Operating Systems.</i></b>
+  <h3>MeanOS: The Evoolution of Operating Systems.</h3>
 
   <p>The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS is specifically designed to support both Brave and Tor but is compatible with all other major browsers. Mean OS is Proud to be a BRAVE and TOR supporter, be free!!</p>
   
@@ -102,12 +91,9 @@
   <br />
   
 <p align="center">
-  
-<img src="https://user-images.githubusercontent.com/6468571/168201179-ed2b640e-0448-41af-9749-c7315cf71c17.png" />
-
+<img src="https://user-images.githubusercontent.com/6468571/191240992-72b3c26a-5825-4ea1-af83-7adaabae411b.png" />
 <img src="https://user-images.githubusercontent.com/6468571/168201843-2e9614ea-a756-4e9a-8269-0a0888f30ebd.png" />
-  
-  </p>
+</p>
   
 - [GUI Options](#gui-options)
 
@@ -139,19 +125,10 @@
 <hr />
 
 <hr />
-
-  <br />
-  
-<p align="center">
-  
-<img src="https://user-images.githubusercontent.com/6468571/168201212-b7df6600-17ba-484f-b10d-f53116582567.png" />
-
- <img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" />
-  
- </p>
- 
-- [x]Google Fuchsia is an open-source capability-based operating system that is currently undergoing active development by Google. Fuchsia is often referred to by the term Google Fuchsia. It was in August of 2016 that it first came to the attention of the general public. At that time, the project had been discovered on a self-hosted version of git without any official announcement.
-
+<br />
+<p align="center"><img src="https://user-images.githubusercontent.com/6468571/191241642-18bfb75e-77fc-4306-ad05-68efb17de0f2.png" />
+<img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" /></p>- [x]Google Fuchsia is an open-source capability-based operating system that is currently undergoing active development by Google. Fuchsia is often referred to by the term Google Fuchsia. It was in August of 2016 that it first came to the attention of the general public. At that time, the project had been discovered on a self-hosted version of git without any official announcement.
+<br /><br />
 <p align="center"><img width="800px" src="https://cdn.obeyi.com/os/img/fuschia-screenshot.jpg" /></p>
 
 - [x] The Linux operating system based on Debian serves as the foundation for the Linux distribution known as Kali Linux. Its primary purpose is to provide a platform for digital forensics and penetration testing. This is precisely why it was designed. Offensive Security is responsible for both the facility's maintenance and the providing of the necessary funds to run it.
@@ -164,13 +141,7 @@
 
 <hr />
 
-<p align="center">
-  
-<img src="https://user-images.githubusercontent.com/6468571/168284693-6a2dcc3e-ea0d-4bc5-92fd-31fa6964d043.png" />
-
- <img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" />
-  
- </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/6468571/191242103-1bc88cb0-854d-4c08-a22e-335b814a0620.png" /><img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" /></p>
 
 <p align="right">
     <a href="https://mean.obeyi.com/"><img align="right" width="30%" src="https://cdn.obeyi.com/os/img/media/fluid.gif" /></a>
@@ -194,13 +165,7 @@ Due to the possibility of security vulnerabilities, service workers may only ope
   
   <br />
   
-<p align="center">
-  
-<img src="https://user-images.githubusercontent.com/6468571/168201268-8eae3921-eaf1-4204-8aff-8c007f709775.png" />
-
- <img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" />
-  
- </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/6468571/191242295-bad7c3ff-c432-444c-ae46-c188aea2ddba.png" /><img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" /></p>
  
 <p align="center">
     <a align="center" href="https://mean.obeyi.com"><img align="center" width="60%" src="https://cdn.obeyi.com/os/img/media/banner2.gif" /></a>
@@ -240,11 +205,9 @@ Due to the possibility of security vulnerabilities, service workers may only ope
   <br />
   
 <p align="center">
-  
-<img src="https://user-images.githubusercontent.com/6468571/168201376-5c9fb312-3dfb-4b92-85cd-513503174d94.png" />
+<img src="https://user-images.githubusercontent.com/6468571/191242480-ee6f6bdc-98eb-467f-8b4e-f19e4ca60287.png" />
 
  <img src="https://user-images.githubusercontent.com/6468571/168201820-b764ddec-2c29-419e-9aa8-33f5cd02ba72.png" />
-  
 </p> 
 
  <p>The following projects were essential to the development of Mean OS and should be appropriately attributed.:</p>
